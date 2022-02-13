@@ -52,7 +52,7 @@ try:
         fill=True,
         fill_color="#3186cc",
     ).add_to((myMap))
-    myMap.save("mylocation.html")
+    myMap.save("index.html")
 
 except:
     print("-----INVALID PHONE NUMBER-----")
